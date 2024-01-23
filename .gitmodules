@@ -1,0 +1,3 @@
+[submodule "Chesster"]
+	path = Chesster
+	url = https://github.com/MeganJS/Chesster.git
