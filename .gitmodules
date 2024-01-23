@@ -1,3 +1,6 @@
 [submodule "Chesster"]
 	path = Chesster
 	url = https://github.com/MeganJS/Chesster.git
+[submodule "Hitomezashi"]
+	path = Hitomezashi
+	url = https://github.com/MeganJS/Hitomezashi-Generator.git
